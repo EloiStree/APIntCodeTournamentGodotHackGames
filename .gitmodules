@@ -1,0 +1,15 @@
+[submodule "addons/2025_11_11_gdp_wow_int"]
+	path = addons/2025_11_11_gdp_wow_int
+	url = https://github.com/EloiStree/2025_11_11_gdp_wow_int.git
+[submodule "addons/2025_10_27_gdp_udp_in_out_gate"]
+	path = addons/2025_10_27_gdp_udp_in_out_gate
+	url = https://github.com/EloiStree/2025_10_27_gdp_udp_in_out_gate.git
+[submodule "addons/2025_10_30_gdp_godot_input_to_iid"]
+	path = addons/2025_10_30_gdp_godot_input_to_iid
+	url = https://github.com/EloiStree/2025_10_30_gdp_godot_input_to_iid.git
+[submodule "addons/2025_10_28_gdp_trusted_websocket"]
+	path = addons/2025_10_28_gdp_trusted_websocket
+	url = https://github.com/EloiStree/2025_10_28_gdp_trusted_websocket.git
+[submodule "addons/2025_11_14_gdp_webcam_to_texture"]
+	path = addons/2025_11_14_gdp_webcam_to_texture
+	url = https://github.com/EloiStree/2025_11_14_gdp_webcam_to_texture.git
