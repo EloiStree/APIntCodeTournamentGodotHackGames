@@ -13,9 +13,6 @@
 [submodule "addons/2025_11_14_gdp_webcam_to_texture"]
 	path = addons/2025_11_14_gdp_webcam_to_texture
 	url = https://github.com/EloiStree/2025_11_14_gdp_webcam_to_texture.git
-[submodule "_project/addons/2025_12_03_gdp_interactable_index_integer"]
-	path = _project/addons/2025_12_03_gdp_interactable_index_integer
-	url = https://github.com/EloiStree/2025_12_03_gdp_interactable_index_integer.git
 [submodule "addons/2025_12_03_gdp_interactable_index_integer"]
 	path = addons/2025_12_03_gdp_interactable_index_integer
 	url = https://github.com/EloiStree/2025_12_03_gdp_interactable_index_integer.git
