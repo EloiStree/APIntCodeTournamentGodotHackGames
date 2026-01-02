@@ -11,9 +11,24 @@ config_version=5
 [application]
 
 config/name="APIntCodeTournamentGodotHackGames"
+config/description="Use Godot as Input Hub for games"
 run/main_scene="uid://cf5wjxwqayt62"
-config/features=PackedStringArray("4.4", "GL Compatibility")
+config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=512
+window/size/viewport_height=512
+
+[input_devices]
+
+pointing/android/override_volume_buttons=true
+sensors/enable_accelerometer=true
+sensors/enable_gravity=true
+sensors/enable_gyroscope=true
+sensors/enable_magnetometer=true
+pointing/emulate_mouse_from_touch=false
 
 [rendering]
 
