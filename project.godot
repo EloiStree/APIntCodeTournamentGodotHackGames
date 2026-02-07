@@ -8,18 +8,26 @@
 
 config_version=5
 
+[animation]
+
+compatibility/default_parent_skeleton_in_mesh_instance_3d=true
+
 [application]
 
 config/name="APIntCodeTournamentGodotHackGames"
 config/description="Use Godot as Input Hub for games"
-run/main_scene="uid://cf5wjxwqayt62"
-config/features=PackedStringArray("4.5", "GL Compatibility")
+run/main_scene="uid://t541jgkqbe76"
+config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [display]
 
 window/size/viewport_width=512
 window/size/viewport_height=512
+
+[dotnet]
+
+project/assembly_name="APIntCodeTournamentGodotHackGames"
 
 [input_devices]
 
