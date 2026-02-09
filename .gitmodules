@@ -25,3 +25,6 @@
 [submodule "addons/2026_01_03_gdp_debug_input_stroke"]
 	path = addons/2026_01_03_gdp_debug_input_stroke
 	url = https://github.com/EloiStree/2026_01_03_gdp_debug_input_stroke.git
+[submodule "addons/2026_02_09_gdp_nes_16_tournament"]
+	path = addons/2026_02_09_gdp_nes_16_tournament
+	url = https://github.com/EloiStree/2026_02_09_gdp_nes_16_tournament.git
